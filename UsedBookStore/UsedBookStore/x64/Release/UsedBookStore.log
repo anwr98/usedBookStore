@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Muhammed\Desktop\UsedBookStore\UsedBookStore\main.cpp(218,13): warning C4101:  'res': unreferenced local variable
+C:\Users\Muhammed\Desktop\UsedBookStore\UsedBookStore\main.cpp(258,26): warning C4101:  'e': unreferenced local variable
+  Generating code
+  1 of 169 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    23 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  UsedBookStore.vcxproj -> C:\Users\Muhammed\Desktop\UsedBookStore\x64\Release\UsedBookStore.exe
